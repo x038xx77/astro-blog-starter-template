@@ -1,0 +1,1 @@
+const t="#c8c9c0",o="#000000",c="Услуги/Продукты",s="Узнайте больше, выбрав интересующие вас позиции, или свяжитесь с нами для консультации и получения персональных рекомендаций.",n="Заказать";const e={bgCard:t,cardTextColor:o,title:c,subtitle:s,text_button_to_order:n,isBlackAndWhitePhoto:!0};export{e as p};

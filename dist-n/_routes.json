@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "include": [
+    "/*"
+  ],
+  "exclude": [
+    "/_astro/*",
+    "/VKLogo.png",
+    "/favicon.svg",
+    "/fragmentAbout.html",
+    "/fragmentDeliveryRules.html",
+    "/fragmentHeroCustom.html",
+    "/fragmentOfferAgreement.html",
+    "/fragmentPartners.html",
+    "/fragmentPortfolio.html",
+    "/fragmentPrivacyPolicy.html",
+    "/fragmentUserAgreement.html",
+    "/logo.svg",
+    "/logo2.svg",
+    "/opengraph.png",
+    "/robots.txt",
+    "/fonts/*",
+    "/icons/*",
+    "/images-product/*",
+    "/images-site/*"
+  ]
+}
